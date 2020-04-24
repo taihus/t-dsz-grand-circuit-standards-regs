@@ -2,6 +2,8 @@ TAU DAOSHANZHAN ANNUAL GRAND CIRCUIT Standards and Regulations:
 Section A: STATEMENT OF PURPOSE AND EXPECTATIONS
 
 Section B: MECH CONSTRUCTION GUIDELINES
+>#3) EMP modules are permitted and to be expected.
+i) harden your circuits, stop complaining and just do it.
 >#143: Blink-capable mechs are not permitted and are grounds for immediate
 disqualification.
 i) If we even suspect you've got some kind of nonggao SSC slipstream shidan on
@@ -50,8 +52,6 @@ possible when it happens. We are agreed then?"
 +_!_935&*%#97+_2780-+!(*3#%(*8=1-04)985-387q-30948+(*)#_%)
 
 Section C: RACE ETIQUETTE
->#3) EMP modules are permitted and to be expected.
-i) harden your circuits, stop complaining and just do it.
 >#54) Sparri mech combat techniques are permitted.
 i) If you want to argue this one, argue it to the 69% regulatory board vote.
 Apparently it was "too cool not to allow" and "in the spirit of the race".
