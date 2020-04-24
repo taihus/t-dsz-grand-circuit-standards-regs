@@ -2,19 +2,34 @@ TAU DAOSHANZHAN ANNUAL GRAND CIRCUIT Standards and Regulations:
 Section A: STATEMENT OF PURPOSE AND EXPECTATIONS
 
 Section B: MECH CONSTRUCTION GUIDELINES
->#143: Blink-capable mechs are not permitted and are grounds for immediate disqualification.
-i) If we even suspect you've got some kind of nonggao SSC slipstream shidan on your mech we will feed you to the dustcorps.
+>#143: Blink-capable mechs are not permitted and are grounds for immediate
+disqualification.
+i) If we even suspect you've got some kind of nonggao SSC slipstream shidan on
+your mech we will feed you to the dustcorps.
 ii) "It was HORUS! They made me do it!" is not a valid alibi.
 -=(*_+_!108*(R$_$(%*897&)=--$%1876*&()=-+_&^)7@#344%^@_^+$1%
-~~if ur reading this then that means i like u. consider the following a gift from 1 rat to another. -dr
+~~if ur reading this then that means i like u. consider the following a gift
+from 1 rat to another. -dr
 <<
->// PARTIAL TRANSCRIPT OF T-DSZ GRAND CIRCUIT REGULATORY BOARD EMERGENCY MEETING [REDACTED]
-"...didn't even know shi-tsao [DSZ slang: SSC -dr] put their slipstream tech into production, someone on lamba [Lambda Daoshanzhan -dr] is gonna be losing their fingers I swear-"
-"Sacre de botat isn't this why we started the race in the first place? That was incredible! One second he was there next second-"
-"It's like this, right, the second we allow people to use this blink tech in their rigs then everyone's gonna start using it. Doesn't matter what we originally set out to do, that's the end of the races. People watch this for a good show, fellow honoreds, and a bunch of teleporting mechs just doesn't make for a good show."
+>// PARTIAL TRANSCRIPT OF T-DSZ GRAND CIRCUIT REGULATORY BOARD EMERGENCY MEETING
+ [REDACTED]
+"...didn't even know shi-tsao [DSZ slang: SSC -dr] put their slipstream tech
+into production, someone on lamba [Lambda Daoshanzhan -dr] is gonna be losing
+their fingers I swear-"
+"Sacre de botat isn't this why we started the race in the first place? That was
+incredible! One second he was there next second-"
+"It's like this, right, the second we allow people to use this blink tech in
+their rigs then everyone's gonna start using it. Doesn't matter what we
+originally set out to do, that's the end of the races. People watch this for a
+good show, fellow honoreds, and a bunch of teleporting mechs just doesn't make
+for a good show."
 [silence, ~2 seconds]
-"So we make teleportation against the rules. Guess that would be expected anyways, we'll have to settle for knowing that SSC has put that marde out into the world. Still, what a race eh?"
-"Not even a contest. I want to know how we missed the tech going to market, or however they're distributing it, but I guess we now know and that's just the race doing its job."
+"So we make teleportation against the rules. Guess that would be expected
+anyways, we'll have to settle for knowing that SSC has put that marde out into
+the world. Still, what a race eh?"
+"Not even a contest. I want to know how we missed the tech going to market, or
+however they're distributing it, but I guess we now know and that's just the
+race doing its job."
 "We're in agreement then? Teleporting mechs to be banned in future races?"
 "Shi."
 "Oui."
@@ -23,9 +38,14 @@ ii) "It was HORUS! They made me do it!" is not a valid alibi.
 "Well, what if someone teleported everyone else to get them disqualified?"
 [silence, ~4 seconds]
 "Why are you all looking at me like that? It's what I would do."
-"That's impossible, you can't just yank someone else into blinkspace. Wait, hold on..."
-"Right? We didn't know shi-tsao was putting out their slipstream tech until just now, what's to say the Armory hasn't got something like that cooking up, not to mention the weird tsa you hear about Horus people and whatever it is that those Feisheng [DSZ slang: Voladores -dr] can do."
-"We snag that rock when it gets here. The race does its job, we find out what's possible when it happens. We are agreed then?"
+"That's impossible, you can't just yank someone else into blinkspace. Wait, hold
+ on..."
+"Right? We didn't know shi-tsao was putting out their slipstream tech until just
+ now, what's to say the Armory hasn't got something like that cooking up, not to
+  mention the weird tsa you hear about Horus people and whatever it is that
+  the Feisheng [DSZ slang: Voladores -dr] can do."
+"We snag that rock when it gets here. The race does its job, we find out what's
+possible when it happens. We are agreed then?"
 >>
 +_!_935&*%#97+_2780-+!(*3#%(*8=1-04)985-387q-30948+(*)#_%)
 
@@ -33,8 +53,15 @@ Section C: RACE ETIQUETTE
 >#3) EMP modules are permitted and to be expected.
 i) harden your circuits, stop complaining and just do it.
 >#54) Sparri mech combat techniques are permitted.
-i) If you want to argue this one, argue it to the 69% regulatory board vote. Apparently it was "too cool not to allow" and "in the spirit of the race".
->#70: damaging the race course with intent to damage the race course is not permitted and is grounds for immediate disqualification.
-i) look, we know it's fun to trick a Xiaoli targeting system into making your rig jump half a klick and do a three-point landing but the only reason the dustcorps haven't shut us down yet is because we haven't given them a pressing enough reason to do so.
-ii) The Offworld Merc Incident of '20 was fun but that's the ONLY time we're allowing it.
-iii) Find your own tsadiu loopholes, that's what makes this race fun in the first place.
+i) If you want to argue this one, argue it to the 69% regulatory board vote.
+Apparently it was "too cool not to allow" and "in the spirit of the race".
+>#70: damaging the race course with intent to damage the race course is not
+permitted and is grounds for immediate disqualification.
+i) look, we know it's fun to trick a Xiaoli targeting system into making your
+rig jump half a klick and do a three-point landing but the only reason the
+dustcorps haven't shut us down yet is because we haven't given them a pressing
+enough reason to do so.
+ii) The Offworld Merc Incident of '20 was fun but that's the ONLY time we're
+allowing it.
+iii) Find your own tsadiu loopholes, that's what makes this race fun in the
+first place.
